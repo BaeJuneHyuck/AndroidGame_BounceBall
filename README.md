@@ -1,7 +1,24 @@
-# Database @ PNU (2019.Fall)
+# Android Game Project : Bounce Ball
+ 
+ for android programming practice
 
-Please do the following as soon as cloning this repository.
+# features
 
-Create “SName_Sno.txt” file at your local repository by using a touch command.
+* control ball with touch, drag
+* 60 stages of 3 world
+* skills and items
 
-For example: SName: Joonho Kwon, Sno: 2017001 Then ==> $touch joonho_kwon_2017001.txt
+# captures
+![preview](https://github.com/BaeJuneHyuck/AndroidGame_BounceBall/blob/master/capture/1.jpg?raw=true)
+
+![preview](https://github.com/BaeJuneHyuck/AndroidGame_BounceBall/blob/master/capture/2.jpg?raw=true)
+
+![preview](https://github.com/BaeJuneHyuck/AndroidGame_BounceBall/blob/master/capture/3.jpg?raw=true)
+
+![preview](https://github.com/BaeJuneHyuck/AndroidGame_BounceBall/blob/master/capture/4.jpg?raw=true)
+
+![preview](https://github.com/BaeJuneHyuck/AndroidGame_BounceBall/blob/master/capture/5.jpg?raw=true)
+
+![preview](https://github.com/BaeJuneHyuck/AndroidGame_BounceBall/blob/master/capture/6.jpg?raw=true)
+
+![preview](https://github.com/BaeJuneHyuck/AndroidGame_BounceBall/blob/master/capture/7.jpg?raw=true)
