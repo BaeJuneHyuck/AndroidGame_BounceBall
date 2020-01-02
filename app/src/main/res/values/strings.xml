@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Bounce Ball</string>
+    <string name="game_title">Bounce Ball</string>
+    <string name="stage_select">Select Stage</string>
+
+    <string name="exit">Exit</string>
+
+    <string name="gameOutTitle">Exit</string>
+    <string name="gameOutMessage">Do you really want to quit game?</string>
+    <string name="clearTitle">CLEAR</string>
+    <string name="clearText">try next stage.</string>
+    <string name="fail">FAIL</string>
+    <string name="failText">Never give up, try again.</string>
+
+    <string name="stageOut">Do you really want to quit stage?</string>
+
+    <string name="world_1">White and Black</string>
+    <string name="world_2">Welcome to Jungle</string>
+    <string name="world_3">Over the rainbow</string>
+
+    <string name="hint01">Destroy all black balls!</string>
+    <string name="hint02">If you bounce the ball against the wall, it increases the attack.</string>
+    <string name="hint03">Balls with sky-blue skills increase attack power and speed as they bounce against the wall.</string>
+    <string name="hint04">If you attack a ball with yellow skills, it\'s pushed back a lot, and if you bounce off the wall, it\'s as much damage as your attack power.</string>
+    <string name="hint05">Use "Bomb" items. Damage to nearby enemies.</string>
+    <string name="hint06">A ball with green skills restores the ball in the same team that attacked.</string>
+    <string name="hint07">A ball with red skill is twice as powerful as it does not bounce off the attack.</string>
+    <string name="hint08">Tap the screen before a ball with a purple skill stops, it will damage nearby enemies and stop immediately. Itself also gets 10 damage</string>
+    <string name="hint10">Welcome to the first boss stage.</string>
+    <string name="hint11">Don\'t forget to bounce.</string>
+    <string name="hint12">Be careful when attacking a ball with multiple skills. Think about what will happen.</string>
+    <string name="hint13">Use the recovery item when you need recovery.</string>
+    <string name="hint14">Shield items reduce damage by half.</string>
+    <string name="hint15">Power items make attacks twice as powerful.</string>
+    <string name="hint16">Enemies can also use items.</string>
+    <string name="hint20">This is the last stage of the first world.</string>
+    <string name="hint21">Watch out for bananas!</string>
+    <string name="hint25">Ball can be recovered by touching a ball that has its own green skill.</string>
+    <string name="hint26">Random items can have item effect or skills.</string>
+    <string name="hint29">Be careful not to touch the thorns.</string>
+    <string name="hint30">With bomb items, you can remove any nearby thorns.</string>
+    <string name="hint32">A ball with black skills reduces damage by as much as 10. Damage of 10 or less will not be effective</string>
+    <string name="hint33">A ball with a red skill ignores the effect of a thorny bush.</string>
+    <string name="hint35">Monkeys throw nearby balls.</string>
+    <string name="hint40">Jungle Party~ Umbaba~</string>
+
+    <string name="settings">settings</string>
+
+    <string name="settings_sound">sound effect</string>
+    <string name="settings_music">music</string>
+
+
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="ok">OK</string>
+
+    <string name="currentShootChance">attack chance</string>
+</resources>

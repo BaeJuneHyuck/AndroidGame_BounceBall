@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bounce Ball</string>
+    <string name="game_title">Bounce Ball</string>
+    <string name="stage_select">스테이지 선택</string>
+
+    <string name="exit">나가기</string>
+
+    <string name="gameOutTitle">게임종료</string>
+    <string name="gameOutMessage">게임을 종료합니다.</string>
+    <string name="clearTitle">성공</string>
+    <string name="clearText">다음 스테이지에 도전하세요.</string>
+    <string name="fail">실패</string>
+    <string name="failText">다시한번 시도해보세요.</string>
+
+    <string name="stageOut">스테이지를 종료하시겠습니까?</string>
+
+    <string name="world_1">White and Black</string>
+    <string name="world_2">Welcome to Jungle</string>
+    <string name="world_3">Over the rainbow</string>
+
+    <string name="hint01">검은색 공을 모두 파괴하세요.</string>
+    <string name="hint02">벽에 공을 튕기면 공격력이 증가합니다.</string>
+    <string name="hint03">하늘색 스킬을 가진 공은 벽에 튕길시 공격력과 속도가 추가로 증가합니다.</string>
+    <string name="hint04">노란색 스킬을 가진 공을 공격하면 크게 밀려나며 벽에 튕길시 자신의 공격력만큼의 피해를 입습니다.</string>
+    <string name="hint05">폭탄 아이템을 사용하세요. 주변의 적들에게 피해를 줍니다.</string>
+    <string name="hint06">초록색 스킬을 가진 공은 공격한 아군 공을 회복시킵니다.</string>
+    <string name="hint07">빨간색 스킬을 가진 공은 공격시 튕겨나오지않고 두 배 강력합니다.</string>
+    <string name="hint08">보라색 스킬을 가진 공이 멈추기 전에 화면을 탭하면 주변의 적들에게 피해를 주고 즉시 멈춥니다. 자신도 10의 피해를 받습니다.</string>
+    <string name="hint10">첫번째 보스 스테이지입니다.</string>
+    <string name="hint11">여러번 튕겨서 공격하세요.</string>
+    <string name="hint12">여러 스킬을 가진 공을 공격할때는 주의하세요. 어떤 결과를 낳을지 생각하세요.</string>
+    <string name="hint13">체력이 부족할때는 hp회복 아이템을 사용하세요.</string>
+    <string name="hint14">방패 아이템은 받는 피해를 절반으로 줄여줍니다.</string>
+    <string name="hint15">파워 아이템을 사용하면 공격이 두배 더 강력해집니다.</string>
+    <string name="hint16">적들도 아이템을 사용할수 있습니다.</string>
+    <string name="hint20">첫번째 월드의 마지막 스테이지입니다.</string>
+    <string name="hint21">바나나를 주의하세요!</string>
+    <string name="hint25">직접 초록색 스킬을 가진 공에 닿아서 회복할 수 있습니다.</string>
+    <string name="hint26">랜덤 아이템은 아이템효과나 스킬을 얻을 수 있습니다.</string>
+    <string name="hint29">가시덤불에 닿지않도록 주의하세요.</string>
+    <string name="hint30">폭탄 아이템으로 근처의 가시덤불을 제거 할 수 있습니다.</string>
+    <string name="hint32">검은색 스킬을 가진 공은 받은 피해에서 10을 경감시킵니다. 공격시 10 이하의 피해는 무효화됩니다.</string>
+    <string name="hint33">빨간색 스킬을 가진 공은 가시덤불의 효과를 무시합니다.</string>
+    <string name="hint35">원숭이들은 근처의 공을 던져버립니다.</string>
+    <string name="hint40">정글 파티~ 움바바~</string>
+
+    <string name="settings">설정</string>
+    <string name="settings_sound">효과음</string>
+    <string name="settings_music">배경음</string>
+
+
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="ok">확인</string>
+
+    <string name="currentShootChance">남은 공격 횟수</string>
+</resources>
